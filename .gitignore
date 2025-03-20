@@ -421,3 +421,21 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,windows
+GimmeDigital/obj/GimmeDigital.csproj.nuget.dgspec.json
+GimmeDigital/obj/GimmeDigital.csproj.nuget.g.props
+GimmeDigital/obj/project.assets.json
+GimmeDigital/obj/project.nuget.cache
+GimmeDigital/obj/Debug/net8.0/GimmeDigital.AssemblyInfo.cs
+GimmeDigital/obj/Debug/net8.0/GimmeDigital.AssemblyInfoInputs.cache
+GimmeDigital/obj/Debug/net8.0/GimmeDigital.assets.cache
+GimmeDigital/obj/Debug/net8.0/GimmeDigital.GeneratedMSBuildEditorConfig.editorconfig
+GimmeTesting/bin/Debug/net8.0/CoverletSourceRootsMapping_GimmeTesting
+GimmeTesting/obj/GimmeTesting.csproj.nuget.dgspec.json
+GimmeTesting/obj/GimmeTesting.csproj.nuget.g.props
+GimmeTesting/obj/project.assets.json
+GimmeTesting/obj/project.nuget.cache
+GimmeTesting/obj/Debug/net8.0/GimmeTesting.AssemblyInfo.cs
+GimmeTesting/obj/Debug/net8.0/GimmeTesting.AssemblyInfoInputs.cache
+GimmeTesting/obj/Debug/net8.0/GimmeTesting.assets.cache
+GimmeTesting/obj/Debug/net8.0/GimmeTesting.csproj.AssemblyReference.cache
+GimmeTesting/obj/Debug/net8.0/GimmeTesting.GeneratedMSBuildEditorConfig.editorconfig
